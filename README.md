@@ -1,2 +1,2 @@
-# zatheme
-a cli theme switcher for zathura
+# zathuratheme
+A cli theme switcher for zathura
